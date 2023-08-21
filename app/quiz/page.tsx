@@ -43,7 +43,7 @@ export default function QuizPage() {
   };
   return (
     <div className="max-w-container">
-      <div className="py-20 flex flex-col items-center">
+      <div className="py-12 flex flex-col items-center">
         {currentQuestion <= quiz.questions.length ? (
           quiz.questions.map(
             (question: any) =>

@@ -34,14 +34,14 @@ export const quiz = {
     },
     {
       id: 4,
-      question: "Mon chat s'appelle ?",
+      question: "Mon chat s'appelle...",
       answers: ["Chouquette", "Merguez", "Jean-Jacques", "Salsa"],
       correctAnswer: 2,
       comment: "Stylé, pas vrai ?",
     },
     {
       id: 5,
-      question: "j'écoute principalement du ?",
+      question: "j'écoute principalement du...",
       answers: ["The Police", "Sum 41", "Taylor Swift", "Aya Nakamura"],
       correctAnswer: 1,
       comment: "Groupe de malade !",

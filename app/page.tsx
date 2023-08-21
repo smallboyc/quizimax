@@ -23,13 +23,13 @@ export default function Home() {
           Mon réalisateur préféré est Clint Eastwood.
         </p>
         <p>
-          J'ai jamais été un élève brillant, mais j'aime travailler, apprendre
-          et donner le meilleur de moi-même. Même si on connaît l'échec, il faut
-          aller de l'avant ! C'est très shonen ça.
+          J'aime travailler, apprendre et donner le meilleur de moi-même. Même
+          si on connaît l'échec, il faut aller de l'avant ! C'est très shonen
+          ça.
         </p>
         <p>
-          J'aime la science et le fait de me creuser les méninges pour résoudre
-          un problème et de voir les choses s'assembler au fur et à mesure.
+          J'aime me creuser les méninges pour résoudre un problème et de voir
+          les choses s'assembler au fur et à mesure.
         </p>
         <p>
           Bien que j'aime les maths, ce n'est pas là que je performais à la fac,
@@ -42,7 +42,7 @@ export default function Home() {
         </p>
         <p>J'aime voyager. Un jour, j'irai au pays du soleil-levant.</p>
         <p>
-          J'ai grandi avec le pop/rock des années 2000, avec les vieilles
+          J'ai grandi avec le rock des années 2000, avec les vieilles
           parodies, un jeu de 32 cartes et une série papier de 27 volumes."
         </p>
         <p className="font-bold">
