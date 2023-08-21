@@ -4,5 +4,5 @@
 
 
 .max-w-container {
-  @apply container mx-auto w-full px-4 lg:px-96;
+  @apply container mx-auto w-full px-6 sm:px-16 lg:px-32 xl:px-96;
 }

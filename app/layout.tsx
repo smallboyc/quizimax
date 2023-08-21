@@ -17,7 +17,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="bg-slate-100 min-h-screen h-full">{children}</div>
+        <div className="bg-slate-100 min-h-screen h-full">
+          <div className="pt-20 flex flex-col items-center">
+            <h1 className="text-6xl font-bold my-5">
+              Quiz<span className="text-green-400">1</span>max
+            </h1>
+          </div>
+          <div>{children}</div>
+        </div>
       </body>
     </html>
   );
